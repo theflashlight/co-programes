@@ -1,3 +1,6 @@
+//Joshua Richin
+//17co46
+
 #include<iostream>
 #include<stdlib.h>
 using namespace std;
